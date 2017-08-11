@@ -1,0 +1,23 @@
+{
+  "name": "p2-assessment",
+  "version": "1.0.0",
+  "description": "Phase 2 part-1 assessment",
+  "main": "y",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jonathan A. Mitchell",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2",
+    "pretty-error": "^2.1.1",
+    "watch": "^1.0.2"
+  },
+  "dependencies": {
+    "eslint": "^4.3.0"
+  }
+}
